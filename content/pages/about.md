@@ -9,4 +9,4 @@ and I would probably have been burned at the stake.
 
 😆
 
-[my_sweet_photo]: {filename}/images/HotPhotoOfMe.jpg
+[my_sweet_photo]: {filename}/images/photo.jpg
